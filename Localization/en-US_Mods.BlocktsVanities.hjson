@@ -3,6 +3,6 @@
 Items: {
 	RedJordans: {
 		DisplayName: Red Jordans
-		Tooltip: "Tiptoein' in my Jawdins."
+		Tooltip: Tiptoein' in my Jawdins.
 	}
 }
