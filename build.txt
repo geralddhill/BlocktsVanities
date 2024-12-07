@@ -1,0 +1,3 @@
+displayName = Blockt&#39;s Vanities
+author = Blockt
+version = 0.1
